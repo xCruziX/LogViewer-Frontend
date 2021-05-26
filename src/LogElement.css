@@ -1,0 +1,20 @@
+#container {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#btStart {
+    margin-right: auto;
+    margin-bottom: 20px;
+    display: inline;
+}
+
+#interval{
+    display: inline;
+}
+
+.list-group-item {
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+}
